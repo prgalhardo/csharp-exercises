@@ -1,0 +1,15 @@
+/home/priscila/Projetos/Projetos-Trybe-C#/csharp-exercises/bin/Debug/net6.0/csharp-exercises
+/home/priscila/Projetos/Projetos-Trybe-C#/csharp-exercises/bin/Debug/net6.0/csharp-exercises.deps.json
+/home/priscila/Projetos/Projetos-Trybe-C#/csharp-exercises/bin/Debug/net6.0/csharp-exercises.runtimeconfig.json
+/home/priscila/Projetos/Projetos-Trybe-C#/csharp-exercises/bin/Debug/net6.0/csharp-exercises.dll
+/home/priscila/Projetos/Projetos-Trybe-C#/csharp-exercises/bin/Debug/net6.0/ref/csharp-exercises.dll
+/home/priscila/Projetos/Projetos-Trybe-C#/csharp-exercises/bin/Debug/net6.0/csharp-exercises.pdb
+/home/priscila/Projetos/Projetos-Trybe-C#/csharp-exercises/obj/Debug/net6.0/csharp-exercises.csproj.AssemblyReference.cache
+/home/priscila/Projetos/Projetos-Trybe-C#/csharp-exercises/obj/Debug/net6.0/csharp-exercises.GeneratedMSBuildEditorConfig.editorconfig
+/home/priscila/Projetos/Projetos-Trybe-C#/csharp-exercises/obj/Debug/net6.0/csharp-exercises.AssemblyInfoInputs.cache
+/home/priscila/Projetos/Projetos-Trybe-C#/csharp-exercises/obj/Debug/net6.0/csharp-exercises.AssemblyInfo.cs
+/home/priscila/Projetos/Projetos-Trybe-C#/csharp-exercises/obj/Debug/net6.0/csharp-exercises.csproj.CoreCompileInputs.cache
+/home/priscila/Projetos/Projetos-Trybe-C#/csharp-exercises/obj/Debug/net6.0/csharp-exercises.dll
+/home/priscila/Projetos/Projetos-Trybe-C#/csharp-exercises/obj/Debug/net6.0/ref/csharp-exercises.dll
+/home/priscila/Projetos/Projetos-Trybe-C#/csharp-exercises/obj/Debug/net6.0/csharp-exercises.pdb
+/home/priscila/Projetos/Projetos-Trybe-C#/csharp-exercises/obj/Debug/net6.0/csharp-exercises.genruntimeconfig.cache
