@@ -1,0 +1,4 @@
+// Arquivos que não deverão subir no repositório online.
+
+*bin/
+*obj/
