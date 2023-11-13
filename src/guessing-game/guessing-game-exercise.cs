@@ -1,7 +1,3 @@
-using System;
-
-namespace guessing_number;
-
 public class GuessNumber
 {
     //In this way we are passing the random number generator by dependency injection
